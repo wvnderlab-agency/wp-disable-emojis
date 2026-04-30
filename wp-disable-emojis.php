@@ -1,17 +1,18 @@
 <?php
 
 /*
- * Plugin Name:     Disable Emojis
+ * Plugin Name:     Wvnderlab - Disable Emojis
  * Plugin URI:      https://github.com/wvnderlab-agency/wp-disable-emojis/
+ * Description:     Disable emojis.
  * Author:          Wvnderlab Agency
  * Author URI:      https://wvnderlab.com
  * Text Domain:     wvnderlab-disable-emojis
- * Version:         0.1.0
+ * Version:         0.2.0
  */
 
 /*
  *  ################
- *  ##            ##    Copyright (c) 2025 Wvnderlab Agency
+ *  ##            ##    Copyright (c) 2026 Wvnderlab Agency
  *  ##
  *  ##   ##  ###  ##    ✉️ moin@wvnderlab.com
  *  ##    #### ####     🔗 https://wvnderlab.com
